@@ -24,7 +24,7 @@ JavaScript ⚡ → Lógica de cálculo y manipulación del DOM.
 ✅ Muestra el resultado dinámicamente en pantalla.
 
 
-##📸 Vista previa
+## 📸 Vista previa
 
 ![image](https://github.com/user-attachments/assets/7e998487-bcf9-4760-b401-db56e21bab79)
 
@@ -39,5 +39,11 @@ Ingresa el segundo número.
 
 Presiona el botón Calcular para ver el resultado.
 
+## 📂 Estructura del proyecto
+```plaintext📁 calculadora-sencilla  
+│── 📜 index.html   # Interfaz de la calculadora  
+│── 🎨 styles.css   # Estilos de la calculadora  
+│── ⚡ script.js     # Lógica de la calculadora  
+```
 
 
