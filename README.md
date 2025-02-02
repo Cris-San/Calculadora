@@ -5,9 +5,13 @@
 Esta calculadora permite realizar operaciones básicas como suma, resta, multiplicación y división. Los valores ingresados por el usuario son procesados mediante un script en JavaScript que calcula y muestra el resultado en pantalla.
 
 ## 🛠️ Tecnologías utilizadas
+
 HTML 🏗️ → Estructura de la interfaz.
+
 CSS 🎨 → Estilos básicos para la presentación.
+
 JavaScript ⚡ → Lógica de cálculo y manipulación del DOM.
+
 
 ## 🎯 Características
 ✅ Permite ingresar dos números y seleccionar una operación.
