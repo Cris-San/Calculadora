@@ -14,10 +14,15 @@ JavaScript ⚡ → Lógica de cálculo y manipulación del DOM.
 
 
 ## 🎯 Características
+
 ✅ Permite ingresar dos números y seleccionar una operación.
+
 ✅ Soporta las operaciones: suma ➕, resta ➖, multiplicación ✖️ y división ➗.
+
 ✅ Manejo de eventos en el botón de cálculo.
+
 ✅ Muestra el resultado dinámicamente en pantalla.
+
 
 ##📸 Vista previa
 
@@ -27,7 +32,12 @@ JavaScript ⚡ → Lógica de cálculo y manipulación del DOM.
 
 ## 🚀 Cómo usarlo
 Ingresa el primer número en la caja correspondiente.
+
 Selecciona la operación matemática deseada.
+
 Ingresa el segundo número.
+
 Presiona el botón Calcular para ver el resultado.
+
+
 
