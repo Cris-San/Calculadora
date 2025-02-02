@@ -45,5 +45,23 @@ Presiona el botón Calcular para ver el resultado.
 │── 🎨 styles.css   # Estilos de la calculadora  
 │── ⚡ script.js     # Lógica de la calculadora  
 ```
+## 💡 Mejoras futuras
+🔹 Manejo de errores (división por cero, validaciones).
+
+🔹 Agregar diseño responsivo con CSS.
+
+🔹 Implementar historial de cálculos.
+
+## 👨‍💻 Autor
+💡 Yuber Cristian Sánchez Ospina
+📌 Ingeniero de Sistemas | Apasionado por la tecnología y el aprendizaje continuo.
+
+🌐 LinkedIn: linkedin.com/in/yubercristiansanchezospina
+
+🐙 GitHub: github.com/Cris-San
+
+✉️ Email: cris629.cso@gmail.com
+
+
 
 
